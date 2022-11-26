@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379757992775",
+    "project_id": "commoditytrader-ee49b",
+    "storage_bucket": "commoditytrader-ee49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379757992775:android:5a3666957627e662228a62",
+        "android_client_info": {
+          "package_name": "com.example.commoditytrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379757992775-7m2b4nctgrkm78m7l2lg4eg2oancuq22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp02r49jR2tAt1SIf0TxfF6A7FpjjtYNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379757992775-7m2b4nctgrkm78m7l2lg4eg2oancuq22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
